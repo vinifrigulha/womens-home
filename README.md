@@ -9,7 +9,7 @@
 ### Introdução:
 
 Este trabalho teve o objetivo de utilizar elementos de HTML, CSS e JavaScript, além de explorar a responsividade da tela.
-O projeto final pode ser encontrado nete link:
+O projeto final pode ser encontrado nete link: https://vinifrigulha.github.io/womens-home/
 
 ##
 
