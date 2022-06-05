@@ -371,7 +371,7 @@ background-size: 100%;
     background-image: linear-gradient(to right, #e90f0f 0%, #19325F 100%);
 }
 
-.fa-house-chimney-heart, .fa-users {
+.fa-hand-holding-heart, .fa-users {
     font-size: 14rem;
 }
 
@@ -429,7 +429,7 @@ background-size: 100%;
         height: 250px;
     }
 
-    .fa-users, .fa-house-chimney-heart {
+    .fa-users, .fa-hand-holding-heart {
         font-size: 4rem;
     }
 
