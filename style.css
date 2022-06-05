@@ -216,7 +216,7 @@
     );
 background-size: 100%;
 -webkit-background-clip: text;
--moz-background-clip: text;
+background-clip: text;
 -webkit-text-fill-color: transparent;
 -moz-text-fill-color: transparent;
 }
@@ -231,7 +231,7 @@ background-size: 100%;
     );
     background-size: 100%;
     -webkit-background-clip: text;
-    -moz-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
 }
@@ -279,7 +279,7 @@ background-size: 100%;
     background-image:linear-gradient(to top, #ff087b 0%, #ed1a52 100%); 
     background-size:100%;
     -webkit-background-clip:text;
-    -moz-background-clip:text;
+    background-clip:text;
     -webkit-text-fill-color:transparent;
     -moz-text-fill-color:transparent;
     text-transform: uppercase;
@@ -301,7 +301,7 @@ background-size: 100%;
     );
     background-size: 100%;
     -webkit-background-clip: text;
-    -moz-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
 }
@@ -468,7 +468,7 @@ background-size: 100%;
     background-image:linear-gradient(to right, #9f1052 0%, #c21dbf 100%); 
     background-size:100%;
     -webkit-background-clip:text;
-    -moz-background-clip:text;
+    background-clip:text;
     -webkit-text-fill-color:transparent;
     -moz-text-fill-color:transparent;
     margin-bottom: 5rem;
