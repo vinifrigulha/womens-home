@@ -1,11 +1,14 @@
+/* ===== Configurações Gerais ===== */
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: 'Kumbh Sans', sans-serif;
+    font-family: 'Signika', sans-serif;
     scroll-behavior: smooth;
 }
 
+
+/* ===== Barra de Navegação ===== */
 .navbar {
     background-color: #e7e6e6;
     height:80px;
@@ -183,7 +186,8 @@
     }
 }
 
-/* Seção do Objetivo da ONG */
+
+/* ===== Seção do Objetivo da ONG ===== */
 .hero {
     background: #000000;
     background: linear-gradient(to right, #161616, #000000);
@@ -214,11 +218,11 @@
         #ff8282,
         #dd1ed8
     );
-background-size: 100%;
--webkit-background-clip: text;
-background-clip: text;
--webkit-text-fill-color: transparent;
--moz-text-fill-color: transparent;
+    background-size: 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
 }
 
 .hero_description {
@@ -249,7 +253,8 @@ background-clip: text;
     }
 }
 
-/* Seção "Sobre Nós" */
+
+/* ===== Seção "Sobre Nós" ===== */
 .main {
     background-color: #212121;
     padding: 10rem 0;
@@ -381,7 +386,8 @@ background-clip: text;
     background: linear-gradient(to right, #dd2476, #ff512f);
 }
 
-/* Responsividade Mobile */
+
+/* ===== Responsividade Mobile ===== */
 @media screen and (max-width: 1100px) {
     .main_container {
         display: grid;
@@ -452,7 +458,8 @@ background-clip: text;
     }
 }
 
-/* Seção "Notícias" */
+
+/* ===== Seção "Notícias" ===== */
 .news {
     background-color:#131313;
     display: flex;
@@ -569,7 +576,8 @@ background-clip: text;
     }
 }
 
-/* Rodapé */
+
+/* ===== Rodapé ===== */
 .footer_container {
     background-color: #131313;
     padding: 5rem 0;
@@ -684,3 +692,6 @@ background-clip: text;
         width: 100%;
     }
 }
+
+
+/* ===== FIM :) ===== */
