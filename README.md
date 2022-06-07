@@ -26,5 +26,5 @@ O JavaScript utilizado neste projeto tem as seguintes funcionalidades:
 
 ### Detalhes a serem percebidos ao navegar pelo site:
 
-* Os botões, mesmo que mudem o curso do mouse, não redirecionará a nenhuma outra página, eles apenas redirecionarão para a própria página.
+* Os botões, mesmo que mudem o cursor do mouse, não redirecionará a nenhuma outra página, eles apenas redirecionarão para a própria página.
 * Experimente passar o mouse sobre os botões de cada item e nos cards do item "Notícias".
