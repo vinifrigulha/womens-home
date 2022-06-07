@@ -18,7 +18,7 @@ O projeto final pode ser encontrado nete link: https://vinifrigulha.github.io/wo
 O JavaScript utilizado neste projeto tem as seguintes funcionalidades:
 
 * Ao clicar em alguma tag da barra do menu, um efeito de rolagem será adicionado, levando o usuário até a seção selecionada;
-* * Exibir um menu mobile, ou seja, quando a tela atinge determinada largura, os itens do menu somem e se condensam em um botão de navegação mobile;
+* Exibir um menu mobile, ou seja, quando a tela atinge determinada largura, os itens do menu somem e se condensam em um botão de navegação mobile;
 * Sublinhar o item do menu principal (apenas fora do padrão mobile) de acordo com a exibição na tela, ou seja, à medida que se faz a rolagem da página, um dos itens do menu principal ganha um sublinhado, sumindo quando se passa de determinada altura;
 * Quando se clica em um dos itens do menu mobile, ele será fechado e exibirá na tela o conteúdo daquele item (por exemplo, ao se clicar no item "Notícias", o menu mobile se fechará, e a tela exibirá o conteúdo do item "Notícias").
 
